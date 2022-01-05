@@ -1,1 +1,1 @@
-# Задача №2 - JSON Schema
+# Задача №2 - JSON Schema  [![Build status](https://ci.appveyor.com/api/projects/status/sgor53ydq09euqpj/branch/master?svg=true)](https://ci.appveyor.com/project/AlekseyAlekseev/qa-jsonschema/branch/master)
